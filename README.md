@@ -4,3 +4,4 @@ In this repository there are some Supplementary Information of the manuscript we
 
 - Dglobular.dat = List of the PDB structures of globular monomeric protein set Dglob.
 - Dmembrane.dat = List of the PDB structures of membrane protein set Dmem.  
+- TMassociation.dat = Predicted and experimental values of transmembrane apha-helix association energy.
